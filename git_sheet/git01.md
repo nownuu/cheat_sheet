@@ -11,8 +11,8 @@ $ code ~/.gitconfig
 
 ```bash
 # 사용자 설정
-$ git config --global user.name "User name"
-$ git config --global user.email "User email"
+$ git config --global user.name "User name" #이름
+$ git config --global user.email "User email" #이메일
 
 # CR(Carriage-Return)과 LF(Line Feed) 문자
 $ git config --global core.autocrlf true  #window
@@ -63,6 +63,7 @@ $ git log --oneline # 요약 확인
 
 -----
 ### ■ 깃 브랜치 생성
+
 ```bash
 # 브랜치 생성
 $ git branch [branch name]
@@ -74,4 +75,54 @@ $ git checkout [branch]
 
 # 브랜치 삭제
 $ git branch -d [branch]
+$ git branch -D [branch]
 ```
+
+-----
+
+### ■ 깃 병합
+
+```bash
+$ git checkout [main branch]
+$ git push
+$ git merge [branch name]
+```
+
+-----
+
+### ■ 깃 리베이스
+: 메인 브랜치의 Head가 파생된 브랜치의 조상.
+```bash
+$ git rebase main
+
+# y/n 리베이스
+$ git rebase -i main
+
+# 현재 HEAD를 기준으로 이전 단계 리베이스
+$ git rebase -i HEAD~
+```
+
+---
+### ■ 깃 삭제 및 되돌리기
+
+```bash
+# 파일 삭제
+$ git rm [file name]
+
+# 스테이지 영역의 캐쉬 삭제
+$ git rm --cached [file name]
+
+# 커밋 제거
+$ git reset [commit messege]
+
+# 커밋 제거
+$ git reset HEAD~2 #현재 HEAD에서 2단계 전 커밋으로 돌아감
+$ git revert HEAD~2 #현재 HEAD에서 2단계 전 커밋을 지우는 커밋 생성
+```
+
+
+
+
+
+
+
