@@ -1,4 +1,4 @@
-## Git Sheet 01
+## Git Sheet
 ------
 
 ### ■ 초기 설정
@@ -53,10 +53,11 @@ $ git commit –m 'messege'
 # 현재 위치의 파일 추가 및 커밋
 $ git commit -am 'messege'
 
-# 깃 현재 상태확인
+# 깃 상태확인
 $ git status
 $ git log
 $ git log --oneline # 요약 확인
+$ git show # 자세한 정보 확인
 
 ```
 <br>
