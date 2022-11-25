@@ -7,7 +7,7 @@ GitHub이란 대표적인 git 오픈소스 저장소이다.
 
 ① 닉네임, 바이오, 출신 학교 등 나의 정보를 남에게 보여줄 수 있다.
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/88869180/204011468-9af30e8b-7379-4fc5-882d-e8e983a044a9.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/88869180/204011468-9af30e8b-7379-4fc5-882d-e8e983a044a9.png">
 <br><br>
 
 ----
@@ -15,7 +15,7 @@ GitHub이란 대표적인 git 오픈소스 저장소이다.
 
 깃허브 메인화면에 본인의 특색을 나타낼 수 있다.
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/88869180/204009942-a2c5fc3f-0346-4beb-aa18-aedc6c5d81b2.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/88869180/204009942-a2c5fc3f-0346-4beb-aa18-aedc6c5d81b2.png">
 
 <br>
 ① 코딩테스트 준비에 유용한 백준 알고리즘 사이트의 현재 본인 레벨 자랑 가능.
