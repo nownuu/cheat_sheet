@@ -64,3 +64,55 @@ private로 비공개, public으로 공개 설정이 가능하다.
 깃 명령어 외에도 깃허브에서 브랜치를 생성이 가능하다.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/88869180/204014717-2ca534db-549a-4fff-809b-4a2410589608.png">
+
+
+### □ PR (Pull Request)
+기본 브랜치 외 다른 브랜치로 오픈소스를 올리는 경우 Pull requests로 요청 가능하다.
+
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/114063539/204133811-85a80b29-f40e-45fb-bbc5-61f21d0a7f0d.png">
+
+----
+
+### □ issues
+프로젝트를 진행하면서 생기는 다양한 이벤트
+
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/114063539/204134157-33d8da47-baa9-4e25-acb9-8dd691294589.png">
+
+### □ issues 생성 방법
+① issues 페이지로 들어가 보이는 new issue 버튼을 선택.
+
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/88869180/204134371-a0ce2096-a543-419a-b03c-f78ba7446488.png">
+
+② 내용을 작성 한 뒤 submit new issue 버튼 선택.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114063539/204134430-443b4849-9eda-4440-9c2a-aca08cabb847.png">
+
+
+③ 아래의 사진과 같이 이슈가 생성된 것을 확인 할 수 있다.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114063539/204134473-f6ff7b45-365a-4474-bc7f-6a495f71414d.png">
+
+④ 이슈를 수정할 수 있는 메뉴가 있는 것 또한 확인이 가능하다.
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/114063539/204134569-e473c57f-a54f-4afa-a244-dd5407e060f5.png">
+
+④-① 이슈의 라벨을 설정할 수 있다.
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/114063539/204134664-d181d3d1-b943-40cb-ade0-560ec22844d5.png">
+
+
+④-② 마일스톤을 생성하여 이슈에 설정 가능하다.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114063539/204134713-e3dd5ae9-1ff6-46cb-a30b-b134fcd26305.png">
+
+
+<img width="300" alt="imgae" src="https://user-images.githubusercontent.com/114063539/204134756-21dba93a-5bc0-4bb3-ba4a-5bafe0d41083.png">
+
+-----
+
+### □ Project
+프로젝트 진행사항과 같은 것을 공유할 수 있는 공간.
+
+<img width="100" alt="imgae" src="https://user-images.githubusercontent.com/114063539/204134824-ca48185a-dc20-47c5-b217-722f54c069e0.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114063539/204134891-ddd7dd07-f832-4b24-acc8-f10256fe340a.png">
