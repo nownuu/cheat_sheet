@@ -22,9 +22,16 @@ GitHub이란 대표적인 git 오픈소스 저장소이다.
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/88869180/204010314-3de3d92f-0549-4cf1-b029-4774a56c64ee.png">
 
+```md
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+```
+
+
 ②  본인이 사용할 수 있는 테크를 이미지로 소개 가능.
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/88869180/204009999-b38049dc-effc-4690-8cec-b2cda2e1fef7.png">
+
+※ 참고 사이트 : [프로필 배지](https://shields.io/)
 <br><br>
 
 ----
@@ -116,3 +123,10 @@ private로 비공개, public으로 공개 설정이 가능하다.
 <img width="100" alt="imgae" src="https://user-images.githubusercontent.com/114063539/204134824-ca48185a-dc20-47c5-b217-722f54c069e0.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114063539/204134891-ddd7dd07-f832-4b24-acc8-f10256fe340a.png">
+
+----
+□ Wiki
+
+저장소에 기록을 남기는 공간.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/88869180/204556357-e7af676c-9d1b-40d5-bea6-aa84afad4572.png">
