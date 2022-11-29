@@ -83,6 +83,12 @@ $ git branch -D [branch]
 
 ### ■ 깃 병합
 
+브랜치의 상태에 따라 `3-way` `fast-forward` 의 방식으로 적용.
+- 병합 대상이 현재 커밋의 직접적인 조상인 경우, fast-forward 적용.
+
+##### ※ 3-way의 경우 새로운 커밋을 사용.
+##### ※ fast-forward의 경우 파생된 브랜치을 기본 브랜치에 이어줌.
+
 ```bash
 $ git checkout [main branch]
 $ git push

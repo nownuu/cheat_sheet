@@ -125,7 +125,7 @@ private로 비공개, public으로 공개 설정이 가능하다.
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114063539/204134891-ddd7dd07-f832-4b24-acc8-f10256fe340a.png">
 
 ----
-□ Wiki
+### □ Wiki
 
 저장소에 기록을 남기는 공간.
 
